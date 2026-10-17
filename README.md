@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=00FF9C&background=00000000&multiline=true&width=700&height=190&lines=%24+whoami;3m3r4l;%24+forge+test+--match-test+testExploit+-vvvv;%5B%2B%5D+flash+loan+borrowed%3A+1%2C000%2C000+tokens;%5B%2B%5D+oracle+price+manipulated;%5BPASS%5D+testExploit%28%29+%28gas%3A+1337%29+%E2%9C%94;%2F%2F+responsible+disclosure+only+%F0%9F%8E%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=800&color=00FF9C&background=00000000&multiline=true&width=700&height=190&lines=%24+whoami;3m3r4l;%24+cat+specifications.md;%5B%2B%5D+smart+contract+security+researcher;%5B%2B%5D+focus%3A+sui+move+%7C+solidity+%7C+web3+auditing;%5BOK%5D+ready_for_review+%E2%9C%94;%2F%2F+responsible+disclosure+only+%F0%9F%8E%A9" alt="Typing SVG" />
   </a>
 </p>
 
