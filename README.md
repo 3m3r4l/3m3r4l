@@ -142,7 +142,7 @@ contract Vault {
 
 | 🔓 Repo | 🧬 Lenguaje | ⚔️ Objetivo |
 |:--|:--:|:--|
-| [Auditory-turbos-flash-swap-PoC](https://github.com/3m3r4l/Auditory-turbos-flash-swap-PoC) | Move | Auditar y demostrar riesgos en flash swaps |
+| [Research-flash-swap-PoC](https://github.com/3m3r4l/Research-flash-swap-PoC) | Move | Auditar y demostrar riesgos en flash swaps |
 | [Practicas_Devnet](https://github.com/3m3r4l/Practicas_Devnet) | Rust | Laboratorio de contratos en devnet |
 | [dApp-practices](https://github.com/3m3r4l/dApp-practices) | JavaScript | Conectar contratos con interfaces reales |
 
